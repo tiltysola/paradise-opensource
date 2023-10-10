@@ -1,0 +1,9 @@
+{
+  "name": "paradise-opensource",
+  "version": "1.0.0",
+  "description": "椛鸟风月 · 开源项目",
+  "author": "TiltySola",
+  "scripts": {
+    "serve": "cross-env node dist/index"
+  }
+}
