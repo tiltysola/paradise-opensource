@@ -22,5 +22,9 @@ coverage
 # configure
 .env
 
+# git clones
+paradise-backend-opensource
+paradise-frontend-opensource
+
 # database
 paradise.sqlite
