@@ -3,6 +3,12 @@
 > 这是椛鸟风月我的世界认证服务器的安装程序  
 > 当前仅支持 Linux 环境，您亦可选择手动构建
 
+## 介绍
+
+这是一个基于 authlib-injector 的我的世界认证服务器，
+玩家登录方式可以参见：https://paradise.mahoutsukai.cn/help
+服务器配置方式参见：https://paradise.mahoutsukai.cn/helpserver
+
 ## Linux 安装
 
 1. 执行
