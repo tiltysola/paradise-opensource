@@ -9,6 +9,11 @@
 玩家登录方式可以参见：https://paradise.mahoutsukai.cn/help  
 服务器配置方式参见：https://paradise.mahoutsukai.cn/helpserver
 
+## 项目文件地址
+
+前端：https://github.com/tiltysola/paradise-frontend-opensource  
+后端：https://github.com/tiltysola/paradise-backend-opensource
+
 ## Linux 安装
 
 1. 执行
